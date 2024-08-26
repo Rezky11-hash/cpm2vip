@@ -1,7 +1,7 @@
 {
     "data": {
         "CarID": 19,
-        "CarInstanceId": "car19_DPRLynXYT_WA373_57392",
+        "CarInstanceId": "car19_TM633154_FD551_58329",
         "BoughtBodyKits": {
             "SkirtIds": [],
             "HoodAirIntakeIds": [],
@@ -16,8 +16,8 @@
             "DirtAmount": 0,
             "WindowSpecularColor": 0,
             "CarColor": [
-                4294901760,
-                4294901760
+                4278244597,
+                4278190095
             ],
             "DirtColor": 0,
             "SmokeColor": 4294967295,
@@ -27,68 +27,41 @@
                 "Colors": []
             }
         },
-        "AdditionalData": {
-            "WheelTextFont": 0,
-            "Fso": {
-                "LeftColor": 4294967295,
-                "ModelIndex": 0,
-                "RightColor": 4294967295,
-                "PositionIndex": 0
-            },
-            "FlagId": 0,
-            "WheelTextColor": 0,
-            "AccessoryId": 0,
-            "IsPolice": false,
-            "WheelText": "",
-            "WheelTextFontStyle": 0
-        },
-        "InstalledBodyKits": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "Vinyls": [],
-        "Window": [],
         "TuningData": {
             "FrontWheelData": {
-                "tyreWidth": 155,
+                "tyreWidth": 265,
                 "tyreType": 0,
                 "Color2": [
                     4294967295,
                     4278190080
                 ],
                 "Color1": [
-                    4294967295,
+                    16777215,
                     4278190080
                 ],
-                "Pressure": 2,
-                "wheelSize": 15,
+                "Pressure": 2.2,
+                "wheelSize": 19,
                 "BrakesData": {
-                    "Pistons": 1,
-                    "PistonDiameter": 58,
-                    "DiscType": 2,
+                    "Pistons": 4,
+                    "PistonDiameter": 38,
+                    "DiscType": 3,
                     "CaliperMeshIndex": 0,
-                    "Diameter": 230
+                    "Diameter": 390
                 },
                 "SuspensionData": {
-                    "SlowRebound": 5200,
+                    "SlowRebound": 5900,
                     "SuspensionType": 0,
-                    "Caster": 7.83,
+                    "Caster": 11,
                     "SlowBump": 3200,
-                    "SpringLength": 10.5,
-                    "Ackerman": 16,
-                    "AntiSwayBarForce": 4400,
-                    "SpringRate": 3.1,
-                    "FastRebound": 4200,
-                    "FastBump": 1900,
+                    "SpringLength": 11.8,
+                    "Ackerman": 20,
+                    "AntiSwayBarForce": 7700,
+                    "SpringRate": 8.5,
+                    "FastRebound": 5100,
+                    "FastBump": 2800,
                     "MaxSteerAngle": 33,
-                    "ToeIn": 0.305,
-                    "Camber": 0.3
+                    "ToeIn": 0.05,
+                    "Camber": -1.7
                 },
                 "Limits": {
                     "SpringLengthMin": 1,
@@ -121,9 +94,9 @@
                     "FastReboundMax": 12000
                 },
                 "SpacerWidth": 0,
-                "RimModelId": 56,
-                "rimWidth": 50,
-                "tyreProfile": 60
+                "RimModelId": 97,
+                "rimWidth": 90,
+                "tyreProfile": 35
             },
             "FrontLSD": {
                 "W": 0,
@@ -138,7 +111,7 @@
                 "TorqueSplit": -1,
                 "MaxSteeringAngle": 33,
                 "RedlineRpm": -1,
-                "FuelType": 0,
+                "FuelType": 1,
                 "RearTorqueBiasRatio": -1,
                 "RearAccelBias": -1,
                 "FrontTorqueBiasRatio": -1,
@@ -167,120 +140,129 @@
             },
             "GearBox": {
                 "W": 0,
-                "ID": 99919038
+                "ID": 99919034
             },
             "EngineKitData": {
                 "Camshaft1": {
                     "W": 0,
-                    "ID": 14011002
+                    "ID": 10912001
                 },
                 "CylinderHead": {
                     "W": 0,
-                    "ID": 14008002
+                    "ID": 10909001
                 },
-                "Camshaft2": null,
+                "Camshaft2": {
+                    "W": 0,
+                    "ID": 10931001
+                },
                 "ConnectionRod": {
                     "W": 0,
-                    "ID": 14005001
+                    "ID": 10905001
                 },
                 "EngineId": {
                     "W": 0,
-                    "ID": 140
+                    "ID": 109
                 },
                 "ThrottleValve": {
                     "W": 0,
-                    "ID": 14018002
+                    "ID": 10918001
                 },
                 "FuelPump": {
                     "W": 0,
-                    "ID": 14022001
+                    "ID": 10922001
                 },
                 "Flywheel": {
                     "W": 0,
-                    "ID": 14007001
+                    "ID": 10907001
                 },
                 "Crankshaft": {
                     "W": 0,
-                    "ID": 14004001
+                    "ID": 10904001
                 },
                 "AirFilter": {
                     "W": 0,
-                    "ID": 14029001
+                    "ID": 10929001
                 },
                 "Clutch": {
                     "W": 0,
-                    "ID": 14020004
+                    "ID": 10920001
                 },
                 "Pistons": {
                     "W": 0,
-                    "ID": 14006002
+                    "ID": 10906001
                 },
                 "FuelRail": {
                     "W": 0,
-                    "ID": 14015001
+                    "ID": 10915001
                 },
-                "Intercooler": null,
                 "ExhaustPipe": {
                     "W": 0,
-                    "ID": 14017001
+                    "ID": 10917001
+                },
+                "Intercooler": {
+                    "W": 0,
+                    "ID": 10934001
                 },
                 "Block": {
                     "W": 0,
-                    "ID": 14002001
+                    "ID": 10903001
                 },
                 "ExhaustHeader": {
                     "W": 0,
-                    "ID": 14016001
+                    "ID": 10916001
                 },
-                "Charger": null,
+                "Charger": {
+                    "W": 0,
+                    "ID": 10923001
+                },
                 "IntakeManifold": {
                     "W": 0,
-                    "ID": 14014001
+                    "ID": 10914001
                 },
                 "Radiator": {
                     "W": 0,
-                    "ID": 14033001
+                    "ID": 10933001
                 },
                 "FuelInjectors": {
                     "W": 0,
-                    "ID": 14030001
+                    "ID": 10930002
                 }
             },
             "ECU": {
                 "W": 0,
-                "ID": 14021010
+                "ID": 10921005
             },
             "RearWheelData": {
-                "tyreWidth": 175,
+                "tyreWidth": 295,
                 "tyreType": 0,
                 "Color2": [
                     4294967295,
                     4278190080
                 ],
                 "Color1": [
-                    4294967295,
+                    16777215,
                     4278190080
                 ],
                 "Pressure": 2.2,
-                "wheelSize": 15,
+                "wheelSize": 19,
                 "BrakesData": {
-                    "Pistons": 1,
-                    "PistonDiameter": 36,
-                    "DiscType": 1,
+                    "Pistons": 4,
+                    "PistonDiameter": 34,
+                    "DiscType": 3,
                     "CaliperMeshIndex": 0,
-                    "Diameter": 220
+                    "Diameter": 360
                 },
                 "SuspensionData": {
-                    "SlowRebound": 9500,
-                    "SpringLength": 9.5,
-                    "AntiSwayBarForce": 0,
-                    "SpringRate": 2,
-                    "FastRebound": 7500,
-                    "SuspensionType": 2,
+                    "SlowRebound": 5300,
+                    "SpringLength": 12.6,
+                    "AntiSwayBarForce": 6600,
+                    "SpringRate": 5.5,
+                    "FastRebound": 4600,
+                    "SuspensionType": 0,
                     "FastBump": 2200,
-                    "ToeIn": 0,
+                    "ToeIn": -0.01,
                     "Camber": -2,
-                    "SlowBump": 3400
+                    "SlowBump": 3000
                 },
                 "Limits": {
                     "SpringLengthMin": 1,
@@ -313,21 +295,48 @@
                     "FastReboundMax": 12000
                 },
                 "SpacerWidth": 0,
-                "RimModelId": 56,
-                "rimWidth": 55,
-                "tyreProfile": 55
-            },
-            "RearLSD": {
-                "W": 0,
-                "ID": 99937001
+                "RimModelId": 97,
+                "rimWidth": 100,
+                "tyreProfile": 35
             },
             "Maintenance": [
                 100,
-                4,
-                33,
+                8.5,
+                65,
                 1684300930,
-                7.788041e-06
-            ]
-        }
+                0
+            ],
+            "RearLSD": {
+                "W": 0,
+                "ID": 99937001
+            }
+        },
+        "AdditionalData": {
+            "WheelTextFont": 0,
+            "Fso": {
+                "LeftColor": 4294967295,
+                "ModelIndex": 0,
+                "RightColor": 4294967295,
+                "PositionIndex": 0
+            },
+            "FlagId": 0,
+            "WheelTextColor": 0,
+            "AccessoryId": 0,
+            "IsPolice": false,
+            "WheelText": "",
+            "WheelTextFontStyle": 0
+        },
+        "InstalledBodyKits": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Vinyls": [],
+        "Window": []
     }
 }

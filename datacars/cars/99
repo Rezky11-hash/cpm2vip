@@ -1,7 +1,7 @@
 {
     "data": {
         "CarID": 99,
-        "CarInstanceId": "car99_DPRLynXYT_WA373_57392",
+        "CarInstanceId": "car99_TM633154_NK640_56236",
         "BoughtBodyKits": {
             "SkirtIds": [],
             "HoodAirIntakeIds": [],
@@ -16,8 +16,8 @@
             "DirtAmount": 0,
             "WindowSpecularColor": 0,
             "CarColor": [
-                4294901760,
-                4294901760
+                4290341918,
+                4278190095
             ],
             "DirtColor": 0,
             "SmokeColor": 4294967295,
@@ -27,36 +27,9 @@
                 "Colors": []
             }
         },
-        "AdditionalData": {
-            "WheelTextFont": 0,
-            "Fso": {
-                "LeftColor": 4294967295,
-                "ModelIndex": 0,
-                "RightColor": 4294967295,
-                "PositionIndex": 0
-            },
-            "FlagId": 0,
-            "WheelTextColor": 0,
-            "AccessoryId": 0,
-            "IsPolice": false,
-            "WheelText": "",
-            "WheelTextFontStyle": 0
-        },
-        "InstalledBodyKits": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "Vinyls": [],
-        "Window": [],
         "TuningData": {
             "FrontWheelData": {
-                "tyreWidth": 155,
+                "tyreWidth": 195,
                 "tyreType": 0,
                 "Color2": [
                     4294967295,
@@ -66,64 +39,64 @@
                     4294967295,
                     4278190080
                 ],
-                "Pressure": 2,
+                "Pressure": 2.2,
                 "wheelSize": 15,
                 "BrakesData": {
                     "Pistons": 1,
-                    "PistonDiameter": 58,
+                    "PistonDiameter": 52,
                     "DiscType": 2,
                     "CaliperMeshIndex": 0,
-                    "Diameter": 230
+                    "Diameter": 282
                 },
                 "SuspensionData": {
-                    "SlowRebound": 5200,
+                    "SlowRebound": 3800,
                     "SuspensionType": 0,
-                    "Caster": 7.83,
-                    "SlowBump": 3200,
-                    "SpringLength": 10.5,
-                    "Ackerman": 16,
-                    "AntiSwayBarForce": 4400,
-                    "SpringRate": 3.1,
-                    "FastRebound": 4200,
-                    "FastBump": 1900,
+                    "Caster": 3.9,
+                    "SlowBump": 3600,
+                    "SpringLength": 10.2,
+                    "Ackerman": 5,
+                    "AntiSwayBarForce": 2500,
+                    "SpringRate": 3.5,
+                    "FastRebound": 3000,
+                    "FastBump": 2600,
                     "MaxSteerAngle": 33,
-                    "ToeIn": 0.305,
-                    "Camber": 0.3
+                    "ToeIn": 0.1,
+                    "Camber": -0.5
                 },
                 "Limits": {
                     "SpringLengthMin": 1,
                     "CamberMax": 3,
-                    "SteerAngleMax": 70,
-                    "BrakesPistonsMax": 6,
+                    "SteerAngleMax": 45,
+                    "BrakesPistonsMax": 4,
                     "SlowReboundMax": 12000,
-                    "MaxDiskDiameter": 22,
+                    "MaxDiskDiameter": 19,
                     "AckermanMin": 0,
                     "AntiSwayBarForceMin": 0,
-                    "MaxWheelPressure": 5,
+                    "MaxWheelPressure": 4,
                     "SlowBumpMax": 12000,
                     "SlowReboundMin": 500,
                     "AntiSwayBarForceMax": 20000,
-                    "CasterMax": 12,
+                    "CasterMax": 5,
                     "SpringRateMin": 0.8,
                     "FastReboundMin": 500,
                     "ToeMin": -10,
                     "FastBumpMax": 12000,
                     "SlowBumpMin": 500,
                     "SpringLengthMax": 16,
-                    "CamberMin": -10,
+                    "CamberMin": -8,
                     "MaxWheelRadius": 0.4,
                     "SpringRateMax": 15,
                     "SteerAngleMin": 28,
-                    "CasterMin": -12,
+                    "CasterMin": -3,
                     "ToeMax": 10,
-                    "AckermanMax": 100,
+                    "AckermanMax": 50,
                     "FastBumpMin": 500,
                     "FastReboundMax": 12000
                 },
                 "SpacerWidth": 0,
-                "RimModelId": 56,
-                "rimWidth": 50,
-                "tyreProfile": 60
+                "RimModelId": 37,
+                "rimWidth": 65,
+                "tyreProfile": 50
             },
             "FrontLSD": {
                 "W": 0,
@@ -167,29 +140,29 @@
             },
             "GearBox": {
                 "W": 0,
-                "ID": 99919038
+                "ID": 99919029
             },
             "EngineKitData": {
                 "Camshaft1": {
                     "W": 0,
-                    "ID": 14011002
+                    "ID": 14111003
                 },
                 "CylinderHead": {
                     "W": 0,
-                    "ID": 14008002
+                    "ID": 14108001
                 },
                 "Camshaft2": null,
                 "ConnectionRod": {
                     "W": 0,
-                    "ID": 14005001
+                    "ID": 14105001
                 },
                 "EngineId": {
                     "W": 0,
-                    "ID": 140
+                    "ID": 141
                 },
                 "ThrottleValve": {
                     "W": 0,
-                    "ID": 14018002
+                    "ID": 14018004
                 },
                 "FuelPump": {
                     "W": 0,
@@ -201,7 +174,7 @@
                 },
                 "Crankshaft": {
                     "W": 0,
-                    "ID": 14004001
+                    "ID": 14104001
                 },
                 "AirFilter": {
                     "W": 0,
@@ -209,20 +182,20 @@
                 },
                 "Clutch": {
                     "W": 0,
-                    "ID": 14020004
+                    "ID": 14120001
                 },
                 "Pistons": {
                     "W": 0,
-                    "ID": 14006002
+                    "ID": 14006007
                 },
                 "FuelRail": {
                     "W": 0,
-                    "ID": 14015001
+                    "ID": 14115001
                 },
                 "Intercooler": null,
                 "ExhaustPipe": {
                     "W": 0,
-                    "ID": 14017001
+                    "ID": 14017005
                 },
                 "Block": {
                     "W": 0,
@@ -230,12 +203,12 @@
                 },
                 "ExhaustHeader": {
                     "W": 0,
-                    "ID": 14016001
+                    "ID": 14116001
                 },
                 "Charger": null,
                 "IntakeManifold": {
                     "W": 0,
-                    "ID": 14014001
+                    "ID": 14114001
                 },
                 "Radiator": {
                     "W": 0,
@@ -243,15 +216,15 @@
                 },
                 "FuelInjectors": {
                     "W": 0,
-                    "ID": 14030001
+                    "ID": 14030002
                 }
             },
             "ECU": {
                 "W": 0,
-                "ID": 14021010
+                "ID": 14021015
             },
             "RearWheelData": {
-                "tyreWidth": 175,
+                "tyreWidth": 195,
                 "tyreType": 0,
                 "Color2": [
                     4294967295,
@@ -265,69 +238,96 @@
                 "wheelSize": 15,
                 "BrakesData": {
                     "Pistons": 1,
-                    "PistonDiameter": 36,
-                    "DiscType": 1,
+                    "PistonDiameter": 30,
+                    "DiscType": 2,
                     "CaliperMeshIndex": 0,
                     "Diameter": 220
                 },
                 "SuspensionData": {
-                    "SlowRebound": 9500,
-                    "SpringLength": 9.5,
+                    "SlowRebound": 4000,
+                    "SpringLength": 14.2,
                     "AntiSwayBarForce": 0,
                     "SpringRate": 2,
-                    "FastRebound": 7500,
-                    "SuspensionType": 2,
-                    "FastBump": 2200,
-                    "ToeIn": 0,
-                    "Camber": -2,
-                    "SlowBump": 3400
+                    "FastRebound": 3600,
+                    "SuspensionType": 0,
+                    "FastBump": 2600,
+                    "ToeIn": 0.105,
+                    "Camber": -0.75,
+                    "SlowBump": 3300
                 },
                 "Limits": {
                     "SpringLengthMin": 1,
                     "CamberMax": 3,
-                    "SteerAngleMax": 70,
-                    "BrakesPistonsMax": 6,
+                    "SteerAngleMax": 0,
+                    "BrakesPistonsMax": 4,
                     "SlowReboundMax": 12000,
-                    "MaxDiskDiameter": 22,
+                    "MaxDiskDiameter": 19,
                     "AckermanMin": 0,
                     "AntiSwayBarForceMin": 0,
-                    "MaxWheelPressure": 5,
+                    "MaxWheelPressure": 4,
                     "SlowBumpMax": 12000,
                     "SlowReboundMin": 500,
                     "AntiSwayBarForceMax": 20000,
-                    "CasterMax": 12,
+                    "CasterMax": 0,
                     "SpringRateMin": 0.8,
                     "FastReboundMin": 500,
                     "ToeMin": -10,
                     "FastBumpMax": 12000,
                     "SlowBumpMin": 500,
                     "SpringLengthMax": 16,
-                    "CamberMin": -10,
+                    "CamberMin": -5,
                     "MaxWheelRadius": 0.4,
                     "SpringRateMax": 15,
-                    "SteerAngleMin": 28,
-                    "CasterMin": -12,
+                    "SteerAngleMin": 0,
+                    "CasterMin": 0,
                     "ToeMax": 10,
-                    "AckermanMax": 100,
+                    "AckermanMax": 0,
                     "FastBumpMin": 500,
                     "FastReboundMax": 12000
                 },
                 "SpacerWidth": 0,
-                "RimModelId": 56,
-                "rimWidth": 55,
-                "tyreProfile": 55
-            },
-            "RearLSD": {
-                "W": 0,
-                "ID": 99937001
+                "RimModelId": 37,
+                "rimWidth": 65,
+                "tyreProfile": 50
             },
             "Maintenance": [
                 100,
                 4,
-                33,
+                50,
                 1684300930,
-                7.788041e-06
-            ]
-        }
+                0
+            ],
+            "RearLSD": {
+                "W": 0,
+                "ID": 99937001
+            }
+        },
+        "AdditionalData": {
+            "WheelTextFont": 0,
+            "Fso": {
+                "LeftColor": 4294967295,
+                "ModelIndex": 0,
+                "RightColor": 4294967295,
+                "PositionIndex": 0
+            },
+            "FlagId": 0,
+            "WheelTextColor": 0,
+            "AccessoryId": 0,
+            "IsPolice": false,
+            "WheelText": "",
+            "WheelTextFontStyle": 0
+        },
+        "InstalledBodyKits": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Vinyls": [],
+        "Window": []
     }
 }

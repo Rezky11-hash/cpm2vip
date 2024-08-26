@@ -1,7 +1,7 @@
 {
     "data": {
         "CarID": 59,
-        "CarInstanceId": "car59_DPRLynXYT_WA373_57392",
+        "CarInstanceId": "car59_TM633154_KV768_56103",
         "BoughtBodyKits": {
             "SkirtIds": [],
             "HoodAirIntakeIds": [],
@@ -16,8 +16,8 @@
             "DirtAmount": 0,
             "WindowSpecularColor": 0,
             "CarColor": [
-                4294901760,
-                4294901760
+                4294009143,
+                4278190095
             ],
             "DirtColor": 0,
             "SmokeColor": 4294967295,
@@ -326,7 +326,7 @@
                 4,
                 33,
                 1684300930,
-                7.788041e-06
+                7.8080775e-06
             ]
         }
     }
